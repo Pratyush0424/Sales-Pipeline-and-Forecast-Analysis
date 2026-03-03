@@ -27,10 +27,10 @@ The business requires:
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](DashboardPage1.png)
 
 ### Predictive Insights Dashboard
-![Predictive Insights Dashboard](images/predictive_insights_dashboard.png)
+![Predictive Insights Dashboard](DashboardPage2.png)
 
 ---
 
